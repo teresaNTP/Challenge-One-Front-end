@@ -2,6 +2,6 @@
 
 Projeto feito no decorrer do Progrma Oracle One Next Education + Alura
 
-Pré-visualização disponível em: https://portfolio-one-nt.netlify.app/
+GitHub Pages disponível em: https://teresantp.github.io/Challenge-One-Front-end/
 
 Foi usado HTML, CSS e Javascript
